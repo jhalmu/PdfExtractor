@@ -1,0 +1,26 @@
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-q_dytog6/bottleneck_1648041541248/work
+camelot-py @ file:///home/conda/feedstock_root/build_artifacts/camelot-py_1623745002975/work
+certifi==2021.10.8
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-jgj0vmyy/cffi_1642701117808/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093454858/work
+click==7.1.2
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1635145370133/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+et-xmlfile==1.0.1
+kiwisolver @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/kiwisolver_1638569888412/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1632416631285/work
+numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-ny1mxojk/numexpr_1640704752206/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1626682195712/work
+openpyxl @ file:///home/conda/feedstock_root/build_artifacts/openpyxl_1632332968451/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==1.3.4
+pdfminer.six @ file:///home/conda/feedstock_root/build_artifacts/pdfminer.six_1647733352153/work
+Pillow==9.0.1
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pycryptodome @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-aa5evoss/pycryptodome_1642672558826/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1649603503565/work
+PyPDF2 @ file:///home/conda/feedstock_root/build_artifacts/pypdf2_1650348939720/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1625488956802/work
