@@ -13,3 +13,9 @@ Yours,
 @jhalmu
 
 https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cexport-from-another-calendar-application%2Ccreate-or-edit-a-csv-file
+
+##TODO
+
+- Start and End time
+- Private?
+- Something more
