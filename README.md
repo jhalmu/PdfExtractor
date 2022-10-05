@@ -19,3 +19,5 @@ https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDeskt
 - Start and End time
 - Private?
 - Something more
+
+- Fix the bugzz.
