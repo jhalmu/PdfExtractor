@@ -5,8 +5,6 @@ This is my first Python code. I think it wont work next month with new Timetable
 
 So this is kind of for reference only. 
 
-Please comment how you would meke it better. Or somehow universal.
-
 Yours, 
 
 19.4.2022
