@@ -18,4 +18,10 @@ https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDeskt
 - Private?
 - Something more
 
+<<<<<<< HEAD
 - Fix the bugzz.
+=======
+27.12.2022
+- updated packages. Seems that I have used same virtualenviroment for other packages too, so they mixed. 
+- Will archive this.
+>>>>>>> 2163013 (updating before archiving)

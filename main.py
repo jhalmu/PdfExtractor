@@ -37,7 +37,10 @@ df1 = pd.to_datetime(df1).dt.strftime('%m/%d/%Y')
 df3 = pd.concat([df1,df2], axis=1)
 df4 = pd.concat([df3,df[2],df[3]], axis=1)
 
-# resetoidaan indexi että näyttää kauniimmalta
+# Lisätään muita staattisia kenttiä
+#df5 = 
+
+#resetoidaan indexi että näyttää kauniimmalta
 df4 = df4.reset_index(drop=True)
 
 # lisätään otsikot Google kalenterin mukaan
